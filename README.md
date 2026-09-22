@@ -20,7 +20,7 @@ O projeto consiste em um sistema de gerenciamento de tarefas via terminal (CLI).
 
 ---
 
-## 📂 Estrutura das Classes
+## Estrutura das Classes
 
 - **`Task.java`**: Representa a entidade da tarefa, contendo título (`name`), descrição (`description`) e o status (`status`).
 - **`Controle.java`**: Classe responsável pela regra de negócio, gerenciando o array de tarefas, filtros de busca por status, atualização e deleção.
@@ -28,7 +28,7 @@ O projeto consiste em um sistema de gerenciamento de tarefas via terminal (CLI).
 
 ---
 
-## 🛠️ Funcionalidades
+## Funcionalidades
 
 1. **Adicionar Tarefa**: Cria uma nova tarefa e insere no array.
 2. **Atualizar Tarefa**: Permite alterar o título e a descrição de uma tarefa existente.
@@ -42,7 +42,7 @@ O projeto consiste em um sistema de gerenciamento de tarefas via terminal (CLI).
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. **Pré-requisitos**: Possuir o **JDK 8+** instalado em sua máquina.
 2. **Clonar o repositório**:
